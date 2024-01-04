@@ -6,3 +6,13 @@ When building a phylogenetic tree, you must consider what kind of substitution m
   3) Felesenstein 1981(F81)
   4) Hasegawa, Kishino & Yano(HKY85)
   5) Generalized Time-Reversible(GTR)
+
+## Jukes-Contur 1969(JC69)
+
+## Kimura 1980(K80)
+
+## Felesenstein 1981(F81)
+
+## Hasegawa, Kishino & Yano(HKY85)
+
+## Generalized Time-Reversible(GTR)
